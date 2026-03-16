@@ -1,4 +1,4 @@
-# 👋 Olá, Me chamo junior
+# 👋 Olá, Me chamo jamilson santos
 
 💻 Estou começando minha jornada no mundo da programação.  
 Meu foco atual é aprender **Linux, programação e desenvolvimento de ferramentas** através de prática e projetos.
