@@ -6,7 +6,7 @@ Meu foco atual é aprender **Linux, programação e desenvolvimento de ferrament
 
 # 🧠 Sobre minha pessoa
 
-- 🐧 Usuário Linux (Fedora KDE)
+- 🐧 Usuário Linux (Fedora GNOME)
 - 💻 Estudando programação
 - 🔐 Interessado em segurança e ferramentas Linux
 - 📚 Sempre aprendendo algo novo e correndo atrás de aprender mais e mais.
@@ -14,7 +14,7 @@ Meu foco atual é aprender **Linux, programação e desenvolvimento de ferrament
 
 # 🛠️ Tecnologias e ferramentas
 
-- Linux (Fedora KDE)
+- Linux (Fedora GNOME E KDE)
 - Git & GitHub
 - VS Code
 - Bash / Terminal
